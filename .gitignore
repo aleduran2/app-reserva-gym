@@ -1,0 +1,28 @@
+### General ###
+.DS_Store
+*.log
+.env
+
+### Node ###
+node_modules/
+
+### Expo / React Native ###
+.expo/
+.expo-shared/
+dist/
+web-build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+*.apk
+*.aab
+
+### Backend ###
+backend/data/db.json
+
+### Editores ###
+.vscode/
+.idea/

@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Reservas Gym",
+    "slug": "reservas-gym",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#101418"
+    },
+    "android": {
+      "package": "com.aleduran2.reservasgym",
+      "adaptiveIcon": {
+        "backgroundColor": "#101418"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.aleduran2.reservasgym",
+      "supportsTablet": false
+    },
+    "extra": {
+      "eas": {
+        "projectId": "REEMPLAZAR-CON-TU-PROJECT-ID"
+      }
+    }
+  }
+}
